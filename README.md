@@ -1,1 +1,1 @@
-A web application for sending emails on behalf of clients.
+A web application that allows for sending surveys to customers.
